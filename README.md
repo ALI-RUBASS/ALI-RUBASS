@@ -28,7 +28,7 @@ events, and academic platforms.
 <h3><strong>Documents</strong></h3>
 
 <p><strong>Resume (Full Stack Software Engineer)</strong>  
-   <a href="https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Software%20Engineerr).pdf" target="_blank">View PDF</a>
+   <a href="https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Developer).pdf" target="_blank">View PDF</a>
 </p>
 
 <p><strong>Resume (UI/UX & Graphic Designer)</strong>  
