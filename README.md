@@ -25,6 +25,7 @@ events, and academic platforms.
 <p><strong>Figma</strong> <a href="https://www.figma.com/@alirubass">alirubass</a></p>
 <p><strong>Instagram</strong> <a href="https://www.instagram.com/ali.rubass">ali.rubass</a></p>
 
+<br></br>
 <h3><strong>Documents</strong></h3>
 
 <p><strong>Resume (Full Stack Software Engineer)</strong>  
