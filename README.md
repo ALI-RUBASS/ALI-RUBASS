@@ -13,27 +13,18 @@ animation, branding, and graphic design campaigns. Adept at leading both
 technical and design teams, delivering impactful work across startups,
 events, and academic platforms.
 
-
+<br></br>
 ### Profiles
 
-<table>
-  <tr>
-    <td>Email</td>
-    <td><a href="mailto:alirubass.cs@gmail.com">alirubass.cs@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>Website</td>
-    <td><a href="https://alirubass.me">alirubass.me</a></td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td><a href="https://www.linkedin.com/in/ali-rubass">linkedin.com/in/ali-rubass</a></td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td><a href="https://github.com/ALI-RUBASS">github.com/ALI-RUBASS</a></td>
-  </tr>
-</table>
+
+<p><strong>Email</strong> <a href="mailto:alirubass.cs@gmail.com">alirubass.cs@gmail.com</a></p>
+<p><strong>Website</strong> <a href="https://www.alirubass.me">alirubass.me</a></p>
+<p><strong>LinkedIn</strong> <a href="https://www.linkedin.com/in/ali-rubass">ali-rubass</a></p>
+<p><strong>GitHub</strong> <a href="https://github.com/ALI-RUBASS">ALI-RUBASS</a></p>
+<p><strong>Behance</strong> <a href="https://www.behance.net/alirubass">alirubass</a></p>
+<p><strong>Figma</strong> <a href="https://www.figma.com/@alirubass">alirubass</a></p>
+<p><strong>Instagram</strong> <a href="https://www.instagram.com/ali.rubass">ali.rubass</a></p>
+
 
 <br></br>
 **EDUCATION**
@@ -49,6 +40,20 @@ events, and academic platforms.
 > 
 > • Focus areas included full-stack development, cybersecurity, artificial
 > intelligence, and cloud computing.
+
+<br></br>
+
+| **Skills**              | **Technologies & Tools**                                                                                                                                 |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**             | JavaScript, TypeScript, Python, Dart, SQL, HTML, CSS, C#, C++, Java, Bash, JSON, Kotlin                                                                  |
+| **Web Development**       | React.js, Next.js, Flutter, MongoDB, Node.js, Express, SQL, TypeORM, TypeScript, ASP.NET, MVC Architecture, FastAPI, Django, Firebase, Oracle, MySQL, WebSockets |
+| **Cybersecurity**         | Penetration Testing, SIEM (Splunk, ELK Stack), Network Security, Endpoint Security, Cryptography                                                         |
+| **Artificial Intelligence** | NLP, Computer Vision, TensorFlow, PyTorch, Scikit-learn                                                                                                  |
+| **Cloud Computing**       | Cloudflared, AWS (ECR, S3, SageMaker), GitHub Actions, Azure (ML Instance, VM Instance)                                                                  |
+| **Design & Prototyping**  | Figma, Adobe XD, Sketch, InVision, Marvel, Balsamiq                                                                                                       |
+| **Graphic Design & Branding** | Photoshop, Illustrator, Lightroom, After Effects, Premiere Pro, Canva, CorelDRAW, Blender, Social Media Design, Merchandise, Event Collateral, Branding, Typography |
+| **Frontend Implementation** | HTML5, CSS3, Tailwind CSS, Bootstrap, Once UI, JavaScript (UI-Level), React.js (Component Styling)                                                      |
+
 
 <br></br>
 **PROFESSIONAL** **EXPERIENCE**
@@ -89,17 +94,13 @@ events, and academic platforms.
 > 
 > • Supported lab management and Q&A sessions, fostering a collaborative learning environment.
 
-**President**
-
-*FDMS* *-* *FAST* *Design* *&* *Media* *Society* *(FAST* *NUCES)*
+**President** *FDMS* *-* *FAST* *Design* *&* *Media* *Society* *(FAST* *NUCES)*
 
 > • Led the society’s creative operations, managing a 20+ member design and media team. Directed all design campaigns for university events, seminars, and public relations. Established design systems and reusable brand templates adopted campus-wide.
 >
 > • Conducted multiple workshops on Figma, Adobe tools, and design thinking.
 
-**Creative** **Advisor**
-
-*FDMS* *-* *FAST* *Design* *&* *Media* *Society* *(FAST* *NUCES)*
+**Creative** **Advisor** *FDMS* *-* *FAST* *Design* *&* *Media* *Society* *(FAST* *NUCES)*
 
 > • Advising the current executive team on branding, visual direction, and design consistency. Supporting talent development through mentorship and review of ongoing design initiatives.
 >
@@ -113,7 +114,7 @@ events, and academic platforms.
 >
 > • Delivered both print-ready and digital materials tailored to audience engagement and brand identity.
 
-
+<br></br>
 **AWARDS** **&** **ACHIEVEMENTS**
 
 **Design** **Head** **-** **Daira** **2025** **Olympiad** *National* *University* *of* *Computer* *&* *Emerging* *Sciences* *(FAST* *NUCES)*
@@ -130,47 +131,5 @@ events, and academic platforms.
 >
 > • Qualified during my **first** **semester**, demonstrating advanced algorithmic thinking and problem-solving skills typically seen in senior-level participants.
 
-**SKILLS**
-
-**Languages**
-
-JavaScript, TypeScript, Python, Dart, SQL, HTML, CSS, C#, C++, Java,
-Bash, JSON, Kotlin
-
-**Web** **Development**
-
-React.JS, NEXT.JS, Flutter, Mongodb, Node.JS, Express, SQL, TypeORM,
-TypeScript, ASP.NET, MVC Architecture, FAST API, Django, FireBase,
-Oracle, MySQL, Web Sockets
-
-**Cybersecurity**
-
-Penetration Testing, SIEM (Splunk, ELK Stack), Network Security,
-Endpoint Security, Cryptography
-
-**Artificial** **Intelligence**
-
-Natural Language Processing (NLP), Computer Vision, TensorFlow, PyTorch,
-Scikit-learn
-
-**Cloud** **Computing**
-
-Cloudflared, AWS (ECR, S3, SageMaker), Github Actions, Azure (ML
-Instance, VM Instance, etc)
-
-**Design** **&** **Prototyping**
-
-Figma, Adobe XD, Sketch, InVision, Marvel, Balsamiq
-
-**Graphic** **Design** **&** **Branding**
-
-Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe After
-Affects, Adobe Premiere Pro, Canva, CorelDRAW, Blender, Social Media
-Design, Merchandise Design, Event Collateral, Brand Identity, Typography
-
-**Frontend** **Implementation**
-
-HTML5, CSS3, Tailwind CSS, Bootstrap, Once UI, JavaScript (UI-Level),
-React.js (Component Styling)
 
 ---
