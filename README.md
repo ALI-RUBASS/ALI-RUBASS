@@ -25,6 +25,20 @@ events, and academic platforms.
 <p><strong>Figma</strong> <a href="https://www.figma.com/@alirubass">alirubass</a></p>
 <p><strong>Instagram</strong> <a href="https://www.instagram.com/ali.rubass">ali.rubass</a></p>
 
+<h3><strong>Documents</strong></h3>
+
+<p><strong>Resume (Full Stack Software Engineer)</strong>  
+   <a href="https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Software%20Engineerr).pdf" target="_blank">View PDF</a>
+</p>
+
+<p><strong>Resume (UI/UX & Graphic Designer)</strong>  
+   <a href="https://alirubass.me/Ali%20Rubass%20(Resume%20-%20UIUX%20%26%20Graphic%20Designer).pdf" target="_blank">View PDF</a>
+</p>
+
+<p><strong>Curriculum Vitae (CV)</strong>  
+   <a href="https://alirubass.me/Ali%20Rubass%20(CV).pdf" target="_blank">View PDF</a>
+</p>
+
 
 <br></br>
 **EDUCATION**
