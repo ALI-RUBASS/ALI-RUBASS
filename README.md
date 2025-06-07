@@ -90,7 +90,7 @@
   Recognized for outstanding leadership & creative contribution  
   Created cross-platform branding, visual identity, and social engagement
 
-- **ICPC Regional Finalist – Topi Region**  
+- **ICPC Regional Finalist – Asia Topi Region**  
   Ranked 30th in a national-level ICPC programming competition
   Qualified in **1st semester**, showing early algorithmic strength
   Sponsored by FAST NUCES to represent the university
