@@ -1,5 +1,3 @@
-# Ali Rubass
-
 **Full-Stack Developer · UI/UX Designer · Graphic Designer**  
 
 ---
