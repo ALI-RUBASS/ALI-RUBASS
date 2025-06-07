@@ -1,150 +1,105 @@
-<h1 align="center" style="font-size: 2.5rem; font-weight: bold;">Ali Rubass</h1>
-<p align="center" style="font-size: 1.2rem;">
-Full-Stack Developer · UI/UX Designer · Graphic Designer 
-</p>
+<h1 align="center" style="font-size: 3rem;"><strong>Ali Rubass</strong></h1>
+<h3 align="center">Full-Stack Developer · UI/UX Designer · Graphic Designer</h3>
 
 ---
 
-Multidisciplinary professional with a BS in Computer Science and dual
-strengths in Full Stack Software Engineering and Creative Design.
-Skilled in developing scalable applications, secure backend systems, and
-responsive interfaces, while also experienced in crafting clean UI/UX,
-animation, branding, and graphic design campaigns. Adept at leading both
-technical and design teams, delivering impactful work across startups,
-events, and academic platforms.
+### 👨‍💻 About Me
 
-<br></br>
-### Profiles
-
-
-<p><strong>Email</strong> <a href="mailto:alirubass.cs@gmail.com">alirubass.cs@gmail.com</a></p>
-<p><strong>Website</strong> <a href="https://www.alirubass.me">alirubass.me</a></p>
-<p><strong>LinkedIn</strong> <a href="https://www.linkedin.com/in/ali-rubass">ali-rubass</a></p>
-<p><strong>GitHub</strong> <a href="https://github.com/ALI-RUBASS">ALI-RUBASS</a></p>
-<p><strong>Behance</strong> <a href="https://www.behance.net/alirubass">alirubass</a></p>
-<p><strong>Figma</strong> <a href="https://www.figma.com/@alirubass">alirubass</a></p>
-<p><strong>Instagram</strong> <a href="https://www.instagram.com/ali.rubass">ali.rubass</a></p>
-
-<br></br>
-<h3><strong>Documents</strong></h3>
-
-<p><strong>Resume (Full Stack Software Engineer)</strong>  
-   <a href="https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Developer).pdf" target="_blank">View PDF</a>
-</p>
-
-<p><strong>Resume (UI/UX & Graphic Designer)</strong>  
-   <a href="https://alirubass.me/Ali%20Rubass%20(Resume%20-%20UIUX%20%26%20Graphic%20Designer).pdf" target="_blank">View PDF</a>
-</p>
-
-<p><strong>Curriculum Vitae (CV)</strong>  
-   <a href="https://alirubass.me/Ali%20Rubass%20(CV).pdf" target="_blank">View PDF</a>
-</p>
-
-
-<br></br>
-**EDUCATION**
-
-**Bachelor** **of** **Science** **in** **Computer** **Science**
-
-*National* *University* *of* *Computer* *&* *Emerging* *Sciences*
-*(FAST* *NUCES)*
-
-> • CGPA of 3.0.
-> 
-> • Achieved Dean's List of Honours five times for academic excellence.
-> 
-> • Focus areas included full-stack development, cybersecurity, artificial
-> intelligence, and cloud computing.
-
-<br></br>
-
-| **Skills**              | **Technologies & Tools**                                                                                                                                 |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**             | JavaScript, TypeScript, Python, Dart, SQL, HTML, CSS, C#, C++, Java, Bash, JSON, Kotlin                                                                  |
-| **Web Development**       | React.js, Next.js, Flutter, MongoDB, Node.js, Express, SQL, TypeORM, TypeScript, ASP.NET, MVC Architecture, FastAPI, Django, Firebase, Oracle, MySQL, WebSockets |
-| **Cybersecurity**         | Penetration Testing, SIEM (Splunk, ELK Stack), Network Security, Endpoint Security, Cryptography                                                         |
-| **Artificial Intelligence** | NLP, Computer Vision, TensorFlow, PyTorch, Scikit-learn                                                                                                  |
-| **Cloud Computing**       | Cloudflared, AWS (ECR, S3, SageMaker), GitHub Actions, Azure (ML Instance, VM Instance)                                                                  |
-| **Design & Prototyping**  | Figma, Adobe XD, Sketch, InVision, Marvel, Balsamiq                                                                                                       |
-| **Graphic Design & Branding** | Photoshop, Illustrator, Lightroom, After Effects, Premiere Pro, Canva, CorelDRAW, Blender, Social Media Design, Merchandise, Event Collateral, Branding, Typography |
-| **Frontend Implementation** | HTML5, CSS3, Tailwind CSS, Bootstrap, Once UI, JavaScript (UI-Level), React.js (Component Styling)                                                      |
-
-
-<br></br>
-**PROFESSIONAL** **EXPERIENCE**
-
-**Full-Stack** **Developer** *GigaDevDen*
-
-> • Developed a SaaS platform for technical articles and developer tools using React.js and Node.js.
->
-> • Improved platform responsiveness and user experience, boosting user engagement significantly.
-> 
-> • Integrated user authentication and community forums, enhancing collaboration and interaction.
-
-**Design** **&** **Animation** **Lead** *IEEE* *ICIT* *Conference* *(FAST* *NUCES)*
-
-> • Designed and led the complete branding and motion design campaign for the **IEEE** **ICIT** **International** **Conference** **2025**.
->
-> • Created animated promos, stage visuals, and digital content shared across official IEEE platforms.
-> 
-> • Ensured branding consistency across all materials including badges, banners, digital screens, and social assets.
-
-**Front** **Desk** **Officer** **(Technical** **Support)** *FAST-NUCES*
-
-> • Automated admissions scheduling and inquiry systems, reducing manual processing time drastically.
-> 
-> • Enhanced data management by securing applicant information through reliable CRM and digital record systems.
-
-**Design** **Head** *Daira* *National* *Olympiad*
-
-> • Led the complete visual direction and branding for Daira 2025, attended by 5,000+ participants. Designed and delivered event visuals including posters, merchandise, digital content, and stage branding.
->
-> • Supervised a creative team, managed design timelines, and ensured brand consistency across 10+ departments.
->
-> • Collaborated with marketing and logistics teams to produce cohesive multi-platform campaigns.
-
-**Teaching** **Assistant** **(Programming)** *FAST-NUCES*
-
-> • Mentored 120+ students in C/C++, data structures, and algorithms.
-> 
-> • Supported lab management and Q&A sessions, fostering a collaborative learning environment.
-
-**President** *FDMS* *-* *FAST* *Design* *&* *Media* *Society* *(FAST* *NUCES)*
-
-> • Led the society’s creative operations, managing a 20+ member design and media team. Directed all design campaigns for university events, seminars, and public relations. Established design systems and reusable brand templates adopted campus-wide.
->
-> • Conducted multiple workshops on Figma, Adobe tools, and design thinking.
-
-**Creative** **Advisor** *FDMS* *-* *FAST* *Design* *&* *Media* *Society* *(FAST* *NUCES)*
-
-> • Advising the current executive team on branding, visual direction, and design consistency. Supporting talent development through mentorship and review of ongoing design initiatives.
->
-> • Providing continuity in design standards across recurring university events.
-
-**Freelance** **Graphic** **Designer** *Project-Based*
-
-> • Completed 80+ freelance projects including brand kits, posters, social media designs, event collaterals, and merch.
->
-> • Worked with clients in tech, fashion, education, and ecommerce to deliver consistent and creative design solutions.
->
-> • Delivered both print-ready and digital materials tailored to audience engagement and brand identity.
-
-<br></br>
-**AWARDS** **&** **ACHIEVEMENTS**
-
-**Design** **Head** **-** **Daira** **2025** **Olympiad** *National* *University* *of* *Computer* *&* *Emerging* *Sciences* *(FAST* *NUCES)*
-
-> • Appointed as the Design Head for Daira 2025, a large-scale university Olympiad with 5,000+ attendees.
->
-> • Led a multidisciplinary team, overseeing event branding, merchandise, social media content, and cohesive visual identity across all platforms.
->
-> • **Received** **a** **formal** **award** **recognizing** **outstanding** **contribution** **to** **design,** **leadership,** **and** **event** **impact.**
-
-**ICPC** **Regional** **Championship** *ICPC* *Global*
-
-> • Achieved **30th** **position** in the **International** **Collegiate** **Programming** **Contest** **(ICPC)** **Asia** **Topi** **Regional** **On-site** **Contest**, competing against top university programmers from across the region.
->
-> • Qualified during my **first** **semester**, demonstrating advanced algorithmic thinking and problem-solving skills typically seen in senior-level participants.
-
+Multidisciplinary professional with a BS in Computer Science and dual strengths in Full Stack Software Engineering and Creative Design.  
+Skilled in developing scalable applications, secure backend systems, and responsive interfaces, while also experienced in crafting clean UI/UX, animation, branding, and graphic design campaigns.  
+Adept at leading both technical and design teams, delivering impactful work across startups, events, and academic platforms.
 
 ---
+
+### 🧭 Profiles & Documents
+
+| # | Title                           | Link |
+|---|----------------------------------|------|
+| 1 | **Email**                        | [alirubass.cs@gmail.com](mailto:alirubass.cs@gmail.com) |
+| 2 | **Website**                      | [alirubass.me](https://www.alirubass.me) |
+| 3 | **LinkedIn**                     | [ali-rubass](https://www.linkedin.com/in/ali-rubass) |
+| 4 | **GitHub**                       | [ALI-RUBASS](https://github.com/ALI-RUBASS) |
+| 5 | **Behance**                      | [alirubass](https://www.behance.net/alirubass) |
+| 6 | **Figma**                        | [@alirubass](https://www.figma.com/@alirubass) |
+| 7 | **Instagram**                    | [ali.rubass](https://www.instagram.com/ali.rubass) |
+| 8 | **Resume (Full Stack)**          | [View PDF](https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Developer).pdf) |
+| 9 | **Resume (UI/UX & Graphic)**     | [View PDF](https://alirubass.me/Ali%20Rubass%20(Resume%20-%20UIUX%20%26%20Graphic%20Designer).pdf) |
+| 10| **Curriculum Vitae (CV)**        | [View PDF](https://alirubass.me/Ali%20Rubass%20(CV).pdf) |
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+*National University of Computer & Emerging Sciences (FAST NUCES)*  
+• CGPA: **3.0**  
+• Achieved **Dean's List of Honours** five times  
+• Focus: Full-Stack Development, Cybersecurity, AI, Cloud Computing
+
+---
+
+### 🛠️ Skills & Technologies
+
+| Category                     | Tools / Frameworks                                                                                                               |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**               | JavaScript, TypeScript, Python, Dart, SQL, HTML, CSS, C#, C++, Java, Bash, JSON, Kotlin                                          |
+| **Web Development**         | React.js, Next.js, Flutter, Node.js, Express, MongoDB, SQL, TypeORM, ASP.NET, FastAPI, Django, Firebase, Oracle, MySQL           |
+| **Cybersecurity**           | Penetration Testing, SIEM (Splunk, ELK Stack), Network Security, Endpoint Security, Cryptography                                 |
+| **Artificial Intelligence** | NLP, Computer Vision, TensorFlow, PyTorch, Scikit-learn                                                                           |
+| **Cloud Computing**         | AWS (S3, SageMaker), Azure (ML/VM), Cloudflared, GitHub Actions                                                                   |
+| **Design & Prototyping**    | Figma, Adobe XD, Sketch, InVision, Marvel, Balsamiq                                                                               |
+| **Graphic Design**          | Photoshop, Illustrator, After Effects, Premiere Pro, Lightroom, Canva, CorelDRAW, Blender, Typography, Social Media, Merchandise |
+| **Frontend Styling**        | HTML5, CSS3, Tailwind CSS, Bootstrap, Once UI, Component Styling with React.js                                                    |
+
+---
+
+### 💼 Professional Experience
+
+#### 🔹 Full-Stack Developer — *GigaDevDen*
+- Built a SaaS platform for articles and developer tools with React.js & Node.js
+- Added authentication & community forums to boost collaboration
+- Improved performance & responsiveness significantly  
+👉 Visit: [gigadevden.com](https://gigadevden.com)
+
+#### 🔹 Design & Animation Lead — *IEEE ICIT Conference 2025*
+- Led complete motion & visual branding across 10+ digital assets
+- Produced animations, banners, badges, and digital content for IEEE
+
+#### 🔹 Front Desk Officer (Tech) — *FAST NUCES*
+- Automated inquiry/scheduling systems
+- Implemented secure CRM for applicant data
+
+#### 🔹 Design Head — *Daira 2025 Olympiad*
+- Directed design campaigns for 5,000+ participant event
+- Created posters, merch, social content, and stage visuals
+
+#### 🔹 Teaching Assistant — *FAST NUCES*
+- Mentored 120+ students in C/C++ and data structures
+- Led weekly Q&A and debugging sessions
+
+#### 🔹 President — *FDMS Society*
+- Led 20+ member team for all university design projects
+- Introduced reusable brand templates campus-wide
+
+#### 🔹 Creative Advisor — *FDMS Society*
+- Advised on ongoing branding, review, and design initiatives
+- Mentored juniors in Figma and Adobe workflows
+
+#### 🔹 Freelance Graphic Designer — *Project-Based*
+- Delivered 80+ branding, merch, and social media design projects
+- Clients included startups, ecommerce, fashion & education
+
+---
+
+### 🏆 Awards & Achievements
+
+#### 🥇 Design Head – *Daira 2025 Olympiad*
+- Recognized for outstanding leadership & creative contribution
+- Created cross-platform branding, visual identity, and social engagement
+
+#### 🥈 ICPC Regional Finalist – *Asia Topi Region*
+- Ranked **30th** place in Asia-wide programming competition
+- Qualified in **1st semester**, showing early algorithmic strength
+
+---
+
