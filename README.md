@@ -26,7 +26,7 @@
 
 **Bachelor of Science in Computer Science**  
 *National University of Computer & Emerging Sciences (FAST NUCES)*  
-• CGPA: **3.0**  
+• CGPA: **3.4**  
 • Achieved **Dean's List of Honours** five times  
 • Focus: Full-Stack Development, Cybersecurity, AI, Cloud Computing
 
