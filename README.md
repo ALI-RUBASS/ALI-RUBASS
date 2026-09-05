@@ -16,9 +16,9 @@
 
 ## Resume & CV
 
-8. **Resume (Full Stack):** [https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Developer).pdf](https://alirubass.me/Ali%20Rubass%20(Resume%20-%20Full%20Stack%20Developer).pdf)  
-9. **Resume (UI/UX & Graphic):** [https://alirubass.me/Ali%20Rubass%20(Resume%20-%20UIUX%20%26%20Graphic%20Designer).pdf](https://alirubass.me/Ali%20Rubass%20(Resume%20-%20UIUX%20%26%20Graphic%20Designer).pdf)  
-10. **Curriculum Vitae (CV):** [https://alirubass.me/Ali%20Rubass%20(CV).pdf](https://alirubass.me/Ali%20Rubass%20(CV).pdf)
+8. **Resume (Full Stack):** [https://alirubass.me/Full%20Stack%20Software%20Engineer%20(Resume).pdf](https://alirubass.me/Full%20Stack%20Software%20Engineer%20(Resume).pdf)  
+9. **Resume (UI/UX & Graphic):** [https://alirubass.me/Graphic%20Design%20%26%20UIUX%20(Resume).pdf](https://alirubass.me/Graphic%20Design%20%26%20UIUX%20(Resume).pdf)  
+10. **Curriculum Vitae (CV):** [https://alirubass.me/Curriculum%20Vitae%20(CV).pdf](https://alirubass.me/Curriculum%20Vitae%20(CV).pdf)
 
 ---
 
