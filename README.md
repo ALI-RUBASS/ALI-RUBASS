@@ -5,7 +5,7 @@
 ## Profiles
 
 1. **Email:** [alirubass.cs@gmail.com](mailto:alirubass.cs@gmail.com)  
-2. **Website:** [https://www.alirubass.me](https://www.alirubass.me)  
+2. **Portfolio:** [https://www.alirubass.me](https://www.alirubass.me)  
 3. **LinkedIn:** [https://www.linkedin.com/in/ali-rubass](https://www.linkedin.com/in/ali-rubass)  
 4. **GitHub:** [https://github.com/ALI-RUBASS](https://github.com/ALI-RUBASS)  
 5. **Behance:** [https://www.behance.net/alirubass](https://www.behance.net/alirubass)  
